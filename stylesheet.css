@@ -1,0 +1,94 @@
+    
+    /* Home */
+.carousel-inner{
+    margin: 0%;
+    position: fixed;
+}
+
+.colon_container .carousel-inner{
+        width: 500px;
+        margin-top: 2%;
+        margin-left: 5%;
+    }
+
+    .colon_container  .carousel-item img{
+        height: 450px;
+        padding: 10px;
+}
+
+.carbon_container .carousel-inner{
+    width: 500px;
+    margin-top: 2%;
+   
+    
+}
+    .carbon_container .carousel-item img{
+        height: 450px;
+        
+       
+    }
+
+
+
+
+    /* Features*/
+
+                /* COLON */
+.title1{
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-top: 1.5%;
+    background-color: whitesmoke;
+    margin-right: 68%;
+    margin-left: 25px;
+    
+}
+    *{
+       box-sizing: border-box;
+    }
+
+.glass{
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+    .glass img{
+        height: 350px;
+        border-radius: 25px;
+
+    }
+
+            /* CARBON */
+
+
+    .container2 .title2{
+        margin-top: 5%;
+        margin-right: 100%;
+    }
+/* .container2.glass{
+    width: 30%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 25px;
+}
+
+    .container2 .glass img{
+        height: 350px;
+        border-radius: 25px;
+    } */
+
+
+
+
+
+
+
+
+
+
+
